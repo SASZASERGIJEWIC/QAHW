@@ -1,0 +1,32 @@
+Test #1
+Username
+*
+Aliaksandra Serhiyevich
+
+ 
+1. Which statement BEST describes the role of testing?
+Testing can be used to assess quality
+
+ 
+2. The effect of testing is to
+give an indication of the software quality
+
+ 
+3. Which of the following are examples of iterative development models?                                                           
+(ii) and (iv)
+
+ 
+4. Enough testing has been performed, when
+the required level of confidence has been achieved
+
+
+5. Exhaustive Testing is
+Is impractical but possible
+
+
+6. Which of the following should NOT normally be an objective for a test?
+To prove that the software is correct
+
+ 
+7. Which of the following is true about the V-model?
+It enables test planning to start as early as possible
