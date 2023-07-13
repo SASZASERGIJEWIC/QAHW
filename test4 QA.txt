@@ -1,0 +1,9 @@
+1. 0, 45, 79, 87
+
+2. 25, 45, 75
+
+3.Valid partitions: Orders with a value up to £20, Orders with a value above £20 and up to £40, Orders with a value above £40.  Non-valid partitions: Negative order value, Zero order value, Invalid currency or non-numeric value, Orders with a value between £20 and £40 but not inclusive
+
+4. 10
+
+5. 4
